@@ -21,13 +21,14 @@ label{
     padding: 10px 0px;
 
 }   
-input{
+imput{
     display: block;
     margin: 10px 0px;
 }
+
 #div-dados{
     width: 100px;
-    height: 200px;
+    height: 88px;
     margin: 50px 0px;
     background-color: blueviolet;
 
