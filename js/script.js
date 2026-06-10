@@ -15,4 +15,4 @@ formPessoa.addEventListener('submit',(evt)=> {
 
     divDados.innerHTML = situacaoIdade
 
-}
+})
